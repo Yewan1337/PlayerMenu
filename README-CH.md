@@ -13,7 +13,7 @@
 ![最新版本](https://img.shields.io/github/v/release/handy-git/PlayerMenu?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC)
 
 一款有点好用的菜单插件
-
+1
 如果本插件帮助到你，请帮忙右上角点个Star就对作者很大的支持了～
 
 使用教程: [点击查看](https://ricedoc.handyplus.cn/wiki/PlayerMenu/README/)  
